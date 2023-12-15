@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', function () {
         { text: 'You know what they say about big feet...', image: 'foot.png' },
         { text: 'KBBQ YUHHH... when we both got tipzee', image: 'food.png' },
         { text: 'AIDYS SLEEPY TIME!', image: 'sleep.png' },
-        { text: 'MY personal SQUISH MALLOW', image: 'squish.jpg' },
+        { text: 'MY personal SQUISH MALLOW', image: 'squish.png' },
         { text: 'When we got our own personal space to just watch the office :)', image: 'hotel.png' },
         { text: 'we hot', image: 'hot.png' },
         { text: 'WHEN WE WERE LITTTTT', image: 'joint.png' },
